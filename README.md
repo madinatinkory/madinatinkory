@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Madina 👋
 
-<!--
-**madinatinkory/madinatinkory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Undergraduate from Mauritius.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Java Practice
+- Data Structures & Algorithms
+- Web Development Projects
+- Database Design Projects
+- Grade Calculator
+- Improved Grade Calculator
+
+## Currently Learning
+- Object-Oriented Programming
+- Software Engineering
+- Web Development
+
+## Contact
+Email: madinatinkory@gmail.com
+LinkedIn: https://www.linkedin.com/in/madinatinkory/
+``
