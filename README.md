@@ -6,7 +6,6 @@ Software Engineering Undergraduate from Mauritius.
 - Java
 - SQL
 - HTML
-- CSS
 - JavaScript
 - Git & GitHub
 
