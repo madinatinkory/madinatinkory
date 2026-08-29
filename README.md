@@ -10,12 +10,8 @@ Software Engineering Undergraduate from Mauritius.
 - Git & GitHub
 
 ## Projects
-- Java Practice
-- Data Structures & Algorithms
-- Web Development Projects
-- Database Design Projects
-- Grade Calculator
-- Improved Grade Calculator
+- [grade-calculator-java](https://github.com/madinatinkory)
+- [ImprovedGradeCalculator](https://github.com/madinatinkory)
 
 ## Currently Learning
 - Object-Oriented Programming
