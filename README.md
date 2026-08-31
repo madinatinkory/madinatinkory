@@ -12,6 +12,8 @@ Software Engineering Undergraduate from Mauritius.
 ## Projects
 - [grade-calculator-java](https://github.com/madinatinkory)
 - [ImprovedGradeCalculator](https://github.com/madinatinkory)
+- Gym Management System Database
+- taskflow-pro
 
 ## Currently Learning
 - Object-Oriented Programming
