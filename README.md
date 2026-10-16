@@ -16,6 +16,7 @@ Software Engineering Undergraduate from Mauritius.
 - Gym Management System Database
 - [taskflow-pro](https://madinatinkory.github.io/taskflow-pro/)
 - [Age Calculator](https://madinatinkory.github.io/Age-Calculator/)
+- [Word-Counter](https://wordcounter-sand.vercel.app/)
 
 ## Currently Learning
 - Object-Oriented Programming
